@@ -3,3 +3,11 @@ Planejamento
 */*/*.exe
 */*/.vscode
 .vscode
+
+# Arquivos dos trabalhos
+Trabalhos/*/*.pdf
+Trabalhos/*/.test_environment/classificacao_iris_petalas_test.csv
+Trabalhos/*/.test_environment/classificacao_iris_petalas.csv
+Trabalhos/*/.test_environment/DEPURACAO
+Trabalhos/*/.test_environment/Trabalho2Bim_test
+Trabalhos/*/*.zip
